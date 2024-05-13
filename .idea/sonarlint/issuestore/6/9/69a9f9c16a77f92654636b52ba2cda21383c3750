@@ -1,0 +1,12 @@
+
+	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ή±ΖΣυ1J$121f067e-3344-4033-a0ad-4c2dd0965b20
+¬
+java:S1319"dThe type of "fila" should be an interface such as "List" rather than the implementation "ArrayList".(ΝΪΏ¬ώÿÿÿÿ8ΰ±ΖΣυ1J$473d1f2b-118b-4914-a38f-1044b2a98569
+i
+java:S1170
+"!Make this final field static too.(χαΐώÿÿÿÿ8η±ΖΣυ1J$8d8f5711-67cc-4be4-83d0-220a6d40858f
+d
+java:S1170"!Make this final field static too.(Σ·π8η±ΖΣυ1J$a5df3498-48bb-4d89-83a3-2704585a4a3a
+΅
+java:S2142'"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8λ±ΖΣυ1J$99110c2f-5e81-47c6-ade9-e53d1f33da33
+m	java:S1069"+Replace this use of System.out by a logger.(Έσαμ8ν±ΖΣυ1J$cd4bdd72-6472-46dc-87d3-182d62a95e61

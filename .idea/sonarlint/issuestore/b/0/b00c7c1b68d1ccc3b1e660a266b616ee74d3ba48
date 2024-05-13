@@ -1,0 +1,16 @@
+
+	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8š”çıõ1J$824e6204-ed59-4388-847c-eca90dd8d843
+¬
+java:S1319"dThe type of "fila" should be an interface such as "List" rather than the implementation "ArrayList".(Ã«¾¿ûÿÿÿÿ8÷Ö¯ıõ1J$0d7d918b-03a1-4634-b3fd-d9b2bbca7016
+±
+java:S1319"iThe type of "atendidos" should be an interface such as "List" rather than the implementation "ArrayList".(Ã«¾¿ûÿÿÿÿ8÷Ö¯ıõ1J$f7a26283-6147-4d6f-a962-eefab4bacf71
+i
+java:S1170"!Make this final field static too.(Æì¹Ÿøÿÿÿÿ8‚×¯ıõ1J$4ed22191-bbe1-40e0-8ef7-f29022408e27
+d
+java:S1170"!Make this final field static too.(«ÏÊ¦8‚×¯ıõ1J$6a4af662-87dd-4992-8c40-8c1ec54ccfae
+m	java:S106""+Replace this use of System.out by a logger.(ø îŞ8„×¯ıõ1J$b1b25ed6-9555-4d10-a307-6bc836ba4648
+¡
+java:S21428"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ä”çıõ1J$df326861-6e49-4b9a-bc95-0256fd6bf1ca
+r	java:S106B"+Replace this use of System.out by a logger.(ƒ˜Ì¦üÿÿÿÿ8Å”çıõ1J$1a71eefb-3ea3-4e89-9891-10987ca4a796
+„
+java:S1126G"AReplace this if-then-else statement by a single return statement.(Ÿôö±8Ç”çıõ1J$b431fbd4-1132-4d79-ad21-0c79936aa248
